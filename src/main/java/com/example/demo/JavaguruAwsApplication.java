@@ -9,7 +9,9 @@ public class JavaguruAwsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JavaguruAwsApplication.class, args);
 		System.out.println("code for new repo");
-        System.out.println("Question how are you");
+                System.out.println("Question how are you");
+		 System.out.println("Main branch");
+		
 		
 	}
 
